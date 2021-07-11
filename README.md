@@ -15,3 +15,6 @@ https://anandsharma.medium.com/aws-amplify-and-angular-how-to-mac-8bca61d29e5e
 https://aws.amazon.com/blogs/aws/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/
 https://docs.amplify.aws/cli/graphql-transformer/directives
 https://docs.aws.amazon.com/ses/latest/DeveloperGuide/request-production-access.html
+
+address:
+key
